@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.2*%
+%TF.CreationDate,2023-06-14T14:53:58-05:00*%
+%TF.ProjectId,ControlRemoto,436f6e74-726f-46c5-9265-6d6f746f2e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.2) date 2023-06-14 14:53:58*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X40640000Y-22972000D02*
+X167640000Y-22972000D01*
+X167640000Y-93980000D01*
+X40640000Y-93980000D01*
+X40640000Y-22972000D01*
+M02*

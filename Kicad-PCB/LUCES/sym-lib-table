@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "led-bike-suit-vest-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/led-bike-suit-vest-eagle-import.kicad_sym")(options "")(descr ""))
+)
