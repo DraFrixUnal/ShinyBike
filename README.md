@@ -48,10 +48,13 @@ Esquematico Luces
 ## PCB
 
 PCB del Control Remoto
+
 ![PCB1](Kicad-PCB/ControlRemoto/CapturaCR.JPG)
 ![PCB11](Kicad-PCB/ControlRemoto/ControlRemoto1.jpg)
 ![PCB111](Kicad-PCB/ControlRemoto/ControlRemoto2.jpg)
+
 PCB de apartado de Luces
+
 ![PCB2](Kicad-PCB/LUCES/CapturaLuces.JPG)
 ![PCB22](Kicad-PCB/LUCES/LUCES1.jpg)
 ![PCB222](Kicad-PCB/LUCES/LUCES2.jpg)
