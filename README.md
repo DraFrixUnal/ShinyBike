@@ -83,4 +83,4 @@ Links de los videos:
  - Explicacion Bluetooth [Veb](https://youtu.be/JUIpYABRpQY)
  - Videos de los problemas [Vp1](https://youtu.be/4-EyFK3v-QM),[Vp2](https://youtube.com/shorts/PcfQB73DB2A?feature=share),[Vp3](https://youtu.be/3R93eb1QBnk)
 
-## Muchas gracias en su visita
+## Muchas gracias por su visita
